@@ -1,0 +1,111 @@
+
+body{
+    width: 1280px;
+    height: 3100px;
+    background-color:rgba(236,215,203,1); 
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-style: normal;
+}
+.container{
+    text-align: left;
+    width: 800px;
+    margin: 0 auto;
+   
+}
+h1{
+    text-align: center;
+    font-family: "Roboto Slab";
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    line-height: 57px;
+    top: 59px;
+    
+}
+img{
+    float: inherit;
+}
+
+.watermark{
+    width: 131px;
+    height: 260px;
+    opacity: 0.56;
+    font-family: "Roboto Slab";
+    font-size: 288px;
+    line-height: 260px;
+    color: #BDAA9F;
+    position:absolute;
+    left: 130px;
+}
+#tribe{
+    width: 272px;
+    height: 72px;
+    font-family: "Libre Franklin";
+    font-size: 20px;
+    line-height: 24px;
+    color: #231F20;
+  
+}
+
+.tribe-heading{
+    width: 109px;
+    height: 46px;
+    font-family: "Roboto Slab";
+    font-size: 38px;
+    line-height: 46px;
+    letter-spacing: 1px;
+    color: #231F20;
+    text-align:left;
+}
+#cycle{
+   width: 272px;
+    height: 104px;
+    font-family: "Libre Franklin";
+    font-size: 20px;
+    line-height: 26px;
+    color: #231F20; 
+}
+.cycle-heading{
+    width: 114px;
+    height: 46px;
+    font-family: "Roboto Slab";
+    font-size: 38px;
+    line-height: 46px;
+    letter-spacing: 1px;
+    color: #231F20;
+}
+#seed{
+    width: 272px;
+    height: 72px;
+    font-family: "Libre Franklin";
+    font-size: 20px;
+    line-height: 24px;
+    color: #231F20;
+}
+.seed-heading{
+   width: 96px;
+    height: 46px;
+    font-family: "Roboto Slab";
+    font-size: 38px;
+    line-height: 46px;
+    letter-spacing: 1px;
+    color: #231F20; 
+}
+#harvest{
+   width: 272px;
+    height: 96px;
+    font-family: "Libre Franklin";
+    font-size: 20px;
+    line-height: 24px;
+    color: #231F20; 
+}
+.harvest-heading{
+    width: 160px;
+    height: 46px;
+    font-family: "Roboto Slab";
+    font-size: 38px;
+    line-height: 46px;
+    letter-spacing: 1px;
+    color: #231F20;
+}
