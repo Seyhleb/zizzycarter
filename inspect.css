@@ -58,6 +58,8 @@ h1{
     line-height: 24px;
     color: #231F20;
     margin-left: 202px;
+    display: inline-block;
+    vertical-align: middle;
 
 }
 
@@ -65,9 +67,9 @@ h1{
     width: 483px;
     height: 327px;
     margin-left: 346px;
-    position: absolute;
-    
-    
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -100px;
 
 }
 .tribe-heading{
@@ -90,7 +92,8 @@ h1{
     line-height: 26px;
     color: #231F20; 
     margin-left: 202px;
-    
+    display: inline-block;
+    vertical-align: middle;
 
 }
 .cycle-heading{
@@ -109,7 +112,9 @@ h1{
     height: 288px;
     margin-left: 362px;
     margin-right: 190px;
-    
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -80px;
 }
 #seed{
     width: 272px;
@@ -119,7 +124,8 @@ h1{
     line-height: 24px;
     color: #231F20;
     margin-left: 202px;
-    
+    display: inline-block;
+    vertical-align: middle;
 }
 .seed-heading{
    width: 96px;
@@ -135,7 +141,9 @@ h1{
     width: 432px;
     height: 382px; 
     margin-left: 341px;
-    
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -150px;
 }
 #harvest{
    width: 272px;
@@ -145,7 +153,8 @@ h1{
     line-height: 24px;
     color: #231F20; 
     margin-left: 202px;
-    
+    display: inline-block;
+    vertical-align: middle;
 }
 .harvest-heading{
     width: 160px;
@@ -153,7 +162,7 @@ h1{
     font-family: "Roboto Slab";
     font-size: 38px;
     line-height: 46px;
-    letter-spacing: 1px;
+    letter-spacing: 1px; 
     color: #231F20;
     margin-left: 197px;
 }
@@ -161,4 +170,7 @@ h1{
     width: 408px;
     height: 324px;
     margin-left: 346px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-top: -100px;
 }
