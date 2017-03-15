@@ -3,32 +3,34 @@ body{
     width: 1280px;
     height: 3100px;
     background-color:rgba(236,215,203,1); 
-    text-align: center;
     font-family: "Roboto Slab";
     font-style: normal;
 }
-.container{
-    text-align: left;
-    width: 800px;
-    margin: 0 auto;
-   
-}
+
 h1{
-    text-align: center;
+    
     font-family: "Roboto Slab";
     font-size: 48px;
     font-weight: 700;
     letter-spacing: 2px;
     line-height: 57px;
-    top: 59px;
-    
+    margin-top: 59px;
+    margin-left: 466px;
+    width: 348px;
+    height: 57px;
+    float: left;   
 }
-img{
-    float: inherit;
+
+.ximage{
+    margin-top: 72px;
+    width: 32px;
+    height: 32px;
+    float: right;
+    
 }
 
 .watermark{
-    width: 131px;
+    width: 131px;;
     height: 260px;
     opacity: 0.56;
     font-family: "Roboto Slab";
@@ -36,7 +38,17 @@ img{
     line-height: 260px;
     color: #BDAA9F;
     position:absolute;
-    left: 130px;
+    margin-left: 130px;
+
+    
+}
+.first-watermark{
+    margin-top: 224px;
+}
+.rectangle{
+    width: 1280px;
+    height: 724px;
+    
 }
 #tribe{
     width: 272px;
@@ -45,9 +57,19 @@ img{
     font-size: 20px;
     line-height: 24px;
     color: #231F20;
-  
+    margin-left: 202px;
+
 }
 
+#image1{
+    width: 483px;
+    height: 327px;
+    margin-left: 346px;
+    position: absolute;
+    
+    
+
+}
 .tribe-heading{
     width: 109px;
     height: 46px;
@@ -56,7 +78,9 @@ img{
     line-height: 46px;
     letter-spacing: 1px;
     color: #231F20;
-    text-align:left;
+    margin-top: 259px;
+    margin-left: 197px;
+    
 }
 #cycle{
    width: 272px;
@@ -65,6 +89,9 @@ img{
     font-size: 20px;
     line-height: 26px;
     color: #231F20; 
+    margin-left: 202px;
+    
+
 }
 .cycle-heading{
     width: 114px;
@@ -74,6 +101,15 @@ img{
     line-height: 46px;
     letter-spacing: 1px;
     color: #231F20;
+    margin-left: 197px;
+    margin-top: 259px;
+}
+#image2{
+    width: 381px;
+    height: 288px;
+    margin-left: 362px;
+    margin-right: 190px;
+    
 }
 #seed{
     width: 272px;
@@ -82,6 +118,8 @@ img{
     font-size: 20px;
     line-height: 24px;
     color: #231F20;
+    margin-left: 202px;
+    
 }
 .seed-heading{
    width: 96px;
@@ -91,6 +129,13 @@ img{
     line-height: 46px;
     letter-spacing: 1px;
     color: #231F20; 
+    margin-left: 197px;
+}
+#image3{
+    width: 432px;
+    height: 382px; 
+    margin-left: 341px;
+    
 }
 #harvest{
    width: 272px;
@@ -99,6 +144,8 @@ img{
     font-size: 20px;
     line-height: 24px;
     color: #231F20; 
+    margin-left: 202px;
+    
 }
 .harvest-heading{
     width: 160px;
@@ -108,4 +155,10 @@ img{
     line-height: 46px;
     letter-spacing: 1px;
     color: #231F20;
+    margin-left: 197px;
+}
+#image4{
+    width: 408px;
+    height: 324px;
+    margin-left: 346px;
 }
